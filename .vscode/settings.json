@@ -1,0 +1,15 @@
+{
+  "prettier.cssEnable": [
+  "css",
+    "css",
+    "less",
+    "scss",
+    "postcss"
+  ],
+  "prettier.javascriptEnable": [
+  "javascript",
+    "javascript",
+    "javascriptreact"
+  ],
+  "prettier.tabWidth": 2
+}
